@@ -8,8 +8,8 @@
 - 🤔 I’m looking for help with reactjs😍
 - 💬 Ask me anything related to my project or about front end.
 - 🦾2021 Goals to learn modren technologies and upgrade my skills.
-- Reach me out https://www.linkedin.com/in/chaitrashivaramnaik/
--->
+- 🌎Reach me out https://www.linkedin.com/in/chaitrashivaramnaik/
+
 
 
 
@@ -29,6 +29,6 @@
 
 
 ### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+<p><img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"><p>
 
 
