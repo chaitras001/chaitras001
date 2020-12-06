@@ -7,7 +7,7 @@
 - 📚 I want to learn django🎀
 - 🤔 I’m looking for help with reactjs😍
 - 💬 Ask me anything related to my project or about front end.
-- 🦾2021 Goals to learn modren technologies and upgrade my skills.
+- 🦾2021 Goals to learn modern technologies and upgrade my skills.
 - 🌎Reach me out https://www.linkedin.com/in/chaitrashivaramnaik/
 
 
