@@ -1,7 +1,7 @@
 # hey chaitra shivaram here👋
 
 
-- 🔭 I’m currently working on front end web development😎
+- 🔭 front end web development😎
 - 🌱 I’m currently learning advanced javascript and reactjs😀
 - 👯 I’m looking to collaborate on full stack web development using django😀
 - 📚 I want to learn django🎀
